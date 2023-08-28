@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Hello Toast</string>
     <string name="count">COUNT</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="masukkan_bb">Masukkan berat badan</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="masukkan_tb">Masukkan Tinggi Badan</string>
+    <string name="toast">TOAST</string>
+    <string name="hitung">HITUNG</string>
+    <string name="_0">0</string>
 </resources>
